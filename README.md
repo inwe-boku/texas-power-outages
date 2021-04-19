@@ -1,5 +1,5 @@
 [![MIT
-License](https://badgen.net/github/license/inwe-boku/texas-power-outages.svg)](https://choosealicense.com/licenses/mit/)
+License](https://badgen.net/github/license/inwe-boku/texas-power-outages)](https://choosealicense.com/licenses/mit/)
 
 Winterization of Texan power system infrastructure is cost-beneficial but risky
 ===============================================================================
