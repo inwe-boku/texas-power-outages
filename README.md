@@ -5,16 +5,13 @@ License](https://badgen.net/github/license/inwe-boku/texas-power-outages)](https
 Profitability and investment risk of Texan power system winterization
 =====================================================================
 
-This repository contains code complementing an analysis of the 2021 cold spell in Texas. Data resulting from this analysis can be found at [Zenodo](https://doi.org/10.5281/zenodo.5902745). Input data needs to be [downloaded from their original sources](#data-download) to reproduce the results.
+This repository contains code complementing an analysis of the 2021 cold spell in Texas. Data resulting from this analysis can be found at [Zenodo](https://doi.org/10.5281/zenodo.5902745). Input data needs to be [downloaded from their original sources](#data-download) to reproduce the results. The paper can be found [here](https://www.nature.com/articles/s41560-022-00994-y).
 
 
 Abstract
 --------
 
 A lack of winterization of power system infrastructure resulted in significant rolling blackouts in Texas in 2021 though debate about the cost of winterization continues. Here, we assess if incentives for winterization on the energy only market are sufficient. We combine power demand estimates with estimates of power plant outages to derive power deficits and scarcity prices. Expected profits from winterization of a large share of existing capacity are positive. However, investment risk is high due to the low frequency of freeze events, potentially explaining under-investment, as do high discount rates and uncertainty about power generation failure under cold temperatures. As the social cost of power deficits is one to two orders of magnitude higher than winterization cost, regulatory enforcement of winterization is welfare enhancing. Current legislation can be improved by emphasizing winterization of gas power plants and infrastructure.
-
-*link to publication will be added*
-
 
 How to
 ======
